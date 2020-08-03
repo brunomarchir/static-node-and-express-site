@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 
   h5{
@@ -58,7 +59,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: rgb(4, 37, 58);
   color: #fff;
   box-shadow: none !important;
 }
@@ -147,4 +148,13 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+body {
+  background-color: rgb(225, 221, 191);
+}
+
+.project-img:hover {
+  height: 200px;
+  width: 100%;
 }

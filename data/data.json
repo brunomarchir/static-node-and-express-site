@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "a-random-quote-generator",
+      "description": "This page generates and display random quotes, each with a different background color.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://brunomarchir.github.io/a-random-quote-generator/",
+      "github_link": "https://github.com/brunomarchir/a-random-quote-generator",
+      "image_urls": ["/static/images/project1.png", "/static/images/project1_2.png", "/static/images/project1_3.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "list-pagination-and-filtering",
+      "description": "A list of students organized in pages and a search engine.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://brunomarchir.github.io/list-pagination-and-filtering/",
+      "github_link": "https://github.com/brunomarchir/list-pagination-and-filtering",
+      "image_urls": ["/static/images/project2.png", "/static/images/project2_2.png", "/static/images/project2_3.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "interactive-form",
+      "description": "A register form with different input types. Error indicators were implemented when the user mistyped or submited a wrong data. ",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://brunomarchir.github.io/interactive-form/",
+      "github_link": "https://github.com/brunomarchir/interactive-form",
+      "image_urls": ["/static/images/project3.png", "/static/images/project3_2.png", "/static/images/project3_3.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "opp-game-show-app",
+      "description": "A phrase-hunter game but with animal names randomly generated. The player is able to use the keyboard if he prefers. The player will have five oportunities to guess the word, each represented with a heart figure on the screen.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://brunomarchir.github.io/opp-game-show-app/",
+      "github_link": "https://github.com/brunomarchir/opp-game-show-app",
+      "image_urls": ["/static/images/project4.png", "/static/images/project4_2.png", "/static/images/project4_3.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "public-api-requests",
+      "description": "This page extracts information from a empleyess database and displays it in a more friendly interface. A modal window, with more details of the employee opens when the client selects one of them. A search engine was implemented.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://brunomarchir.github.io/public-api-requests/",
+      "github_link": "https://github.com/brunomarchir/public-api-requests",
+      "image_urls": ["/static/images/project5.png", "/static/images/project5_2.png", "/static/images/project5_3.png"]
+    }
+  ]
+}
